@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<shop>
+    <mobile>
+        <id>091</id>
+        <brand>Oppo</brand>
+        <modal>F19 pro</modal>
+        <price>Rs.49000</price>
+    </mobile>
+
+    <mobile>
+        <id>092</id>
+        <brand>Samsung</brand>
+        <modal>S23+</modal>
+        <price>Rs.360,000</price>
+    </mobile>
+
+    <mobile>
+        <id>091</id>
+        <brand>Techno</brand>
+        <modal>Camon20 pro</modal>
+        <price>Rs.40,000</price>
+    </mobile>
+    
+</shop>
